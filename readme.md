@@ -7,9 +7,6 @@
 sudo apt install nginx
 
 sudo systemctl enable nginx
-
-
-
 ```
 
 
