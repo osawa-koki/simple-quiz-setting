@@ -1,0 +1,4 @@
+80 nginx
+443 nginx
+8181 api-server
+7878 ws-server
