@@ -1,5 +1,6 @@
 # simple-quiz-setting
 
+simple-quizの設定を担当するリポジトリ。
 
 # Nginxのインストール
 
@@ -8,8 +9,3 @@ sudo apt install nginx
 
 sudo systemctl enable nginx
 ```
-
-
-
-
-
